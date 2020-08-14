@@ -22,9 +22,10 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by [BADSHAH OWNER](t.me/Official_Badshah). My owner is [Mr.Groot](t.me/MrgrootofficialYT).
+im a group manager bot maintained by [BADSHAH OWNER](t.me/Official_Badshah). 
+My owner is [Mr.Groot](t.me/MrgrootofficialYT).
 
-My future updates will be put into This Channel - [Mr_Groot Official YT](t.m/mrgrootofficial).
+My future updates will be put into This Channel - @mrgrootofficial.
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
