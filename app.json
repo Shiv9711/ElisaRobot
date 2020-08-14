@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/Heroofficial/GroupManager.git",
+  "repository": "hhttps://github.com/Shiv9711/ElisaRobot.git",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -38,11 +38,11 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1049081438 1089434386 797768146 1200780834 889034863"
+      "value": "1089434386 1200780834 889034863 617044432"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1049081438 1089434386 797768146 1200780834 889034863"
+      "value": "889034863 617044432"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
