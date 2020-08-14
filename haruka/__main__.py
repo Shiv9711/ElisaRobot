@@ -24,7 +24,7 @@ PM_START = """Hello {}, my name is {}! if you have any questions about how to us
 
 im a group manager bot maintained by My owner is [Garima](t.me/GarimaQueen).
 
-My future updates will be put into This Support Group [ElisaRoBot Group](t.me/Tinder_Queens).
+My future updates will be put into This Support Group [ElisaRoBot Group](t.me/ElisaRobotSupport).
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
