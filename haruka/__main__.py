@@ -23,14 +23,15 @@ from haruka.modules.connection import connected
 PM_START = """Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
 im a group manager bot maintained by My owner is [Garima](t.me/GarimaQueen).
-
 My future updates will be put into This Support Group [ElisaRoBot Group](t.me/ElisaRobotSupport).
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by [clicking here](http://t.me/Elisa_RoBot?startgroup=true).
- 
- Anyone Want Promotion Contact [here](t.me/GarimaQueen).
+Add me to a group by [clicking here](http://t.me/Elisa_RoBot?startgroup=true).
+
+🚨 Anti Ripping Organization 🚨
+You can join Fed or Subscribe to remove Rippers from your Groups [here](t.me/AntiRippingOrganization)
+
 """
 
 
