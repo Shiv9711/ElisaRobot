@@ -17,15 +17,15 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "1301438786:AAGmwjFnjo4JLpc5uEo6cezCGf2W9LKq2kY"
+      "value": "1131611508:AAE0qf8bURtCT91INp4FC70moxlz-d2WmhA"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1200780834"
+      "value": "797768146"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "ArzooOfficial"
+      "value": "HEROGAMERS1"
     },
   
     "URL": {
@@ -38,11 +38,11 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1049081438 1089434386 797768146"
+      "value": "1049081438 1089434386 797768146 1200780834 889034863"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1049081438 1089434386 797768146"
+      "value": "1049081438 1089434386 797768146 1200780834 889034863"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
